@@ -1,4 +1,4 @@
-# issTracker
+# Progetto Aurora
 Progetto Aurora Codedojo Verona
 
 Con questo progetto vogliamo fotografare le aurore boreali e misurare l'interazione del sole con
